@@ -1,0 +1,6 @@
+shortproc1 21 9
+shortproc2 21 9
+shortproc3 21 9
+longprocessislong 0 43
+mediumproc 0 22
+reallyshortproc 5 6

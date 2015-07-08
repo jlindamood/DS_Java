@@ -1,0 +1,13 @@
+1. shortjob, quickjob, littlejob, mediumproc, longproc.
+
+2. You want to do the shortest time first.
+
+Take the case of a 10 second to completion task, 20 second, and 30.
+If you did longest to shortest, turn around would be:
+30 + 50 + 60, or 140 seconds.
+With shortest to longest:
+10 + 30 + 60, or 100 seconds.
+
+//James L, Suhas T.
+CS201
+Andy Exley

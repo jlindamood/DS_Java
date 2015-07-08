@@ -1,0 +1,6 @@
+# process_name time_to_begin time_to_execute 
+process1 0 20
+process2 0 20
+process3 0 20
+process4 0 20
+process5 0 20

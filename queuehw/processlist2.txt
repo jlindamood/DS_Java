@@ -1,0 +1,5 @@
+quickjob 0 12 
+shortjob 0 11
+littlejob 0 13
+longproc 0 43
+mediumproc 0 19

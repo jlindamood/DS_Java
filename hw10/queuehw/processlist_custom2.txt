@@ -1,0 +1,16 @@
+process2 0 40
+process3 0 30
+process4 0 20
+process5 0 10
+process7 10 40
+process8 10 30
+process10 10 10
+process12 20 40
+process14 20 20
+process15 20 10
+process17 30 40
+process18 30 30
+process19 30 20
+process22 40 40
+process23 40 30
+process24 40 20
